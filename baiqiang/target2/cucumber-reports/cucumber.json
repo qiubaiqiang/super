@@ -1,0 +1,309 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-10-24T06:50:40.719Z",
+        "line": 10,
+        "name": "test result whether is correct",
+        "description": "",
+        "id": "testcucumber2;test-result-whether-is-correct;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 889607400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "steps.TestCucumber2.quit_browser() in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 20846047800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "open browser2",
+            "match": {
+              "location": "steps.TestCucumber2.open_browser() in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 417882700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "input data \"180\" \"60\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "180",
+                  "offset": 12
+                },
+                {
+                  "val": "60",
+                  "offset": 18
+                }
+              ],
+              "location": "steps.TestCucumber2.input_data(String,String) in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 61834600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "assert  result \"18.5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "18.5",
+                  "offset": 16
+                }
+              ],
+              "location": "steps.TestCucumber2.assert_result(String) in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-10-24T06:51:02.974Z",
+        "line": 11,
+        "name": "test result whether is correct",
+        "description": "",
+        "id": "testcucumber2;test-result-whether-is-correct;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 799515000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "steps.TestCucumber2.quit_browser() in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16903941600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "open browser2",
+            "match": {
+              "location": "steps.TestCucumber2.open_browser() in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 406912200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "input data \"180\" \"70\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "180",
+                  "offset": 12
+                },
+                {
+                  "val": "70",
+                  "offset": 18
+                }
+              ],
+              "location": "steps.TestCucumber2.input_data(String,String) in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 51861700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "assert  result \"21.6\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "21.6",
+                  "offset": 16
+                }
+              ],
+              "location": "steps.TestCucumber2.assert_result(String) in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-10-24T06:51:21.142Z",
+        "line": 12,
+        "name": "test result whether is correct",
+        "description": "",
+        "id": "testcucumber2;test-result-whether-is-correct;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 1122984300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "steps.TestCucumber2.quit_browser() in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17918042700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "open browser2",
+            "match": {
+              "location": "steps.TestCucumber2.open_browser() in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 618346600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "input data \"170\" \"65\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "170",
+                  "offset": 12
+                },
+                {
+                  "val": "65",
+                  "offset": 18
+                }
+              ],
+              "location": "steps.TestCucumber2.input_data(String,String) in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 60838400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "assert  result \"22.5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "22.5",
+                  "offset": 16
+                }
+              ],
+              "location": "steps.TestCucumber2.assert_result(String) in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-10-24T06:51:40.869Z",
+        "line": 13,
+        "name": "test result whether is correct",
+        "description": "",
+        "id": "testcucumber2;test-result-whether-is-correct;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 1050654600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "steps.TestCucumber2.quit_browser() in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 38337411800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "open browser2",
+            "match": {
+              "location": "steps.TestCucumber2.open_browser() in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 610370400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "input data \"160\" \"50\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "160",
+                  "offset": 12
+                },
+                {
+                  "val": "50",
+                  "offset": 18
+                }
+              ],
+              "location": "steps.TestCucumber2.input_data(String,String) in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 43881700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "assert  result \"19.5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "19.5",
+                  "offset": 16
+                }
+              ],
+              "location": "steps.TestCucumber2.assert_result(String) in file:/C:/Users/baiqiang.qiu/IdeaProjects/baiqiang/target/test-classes/"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "TestCucumber2",
+    "description": "",
+    "id": "testcucumber2",
+    "keyword": "Feature",
+    "uri": "file:feature2/test2.feature",
+    "tags": []
+  }
+]

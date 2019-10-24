@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="100.354">
+    <testcase classname="TestCucumber2" name="test result whether is correct" time="22.248">
+        <system-out>
+            <![CDATA[Given open browser2.........................................................passed
+When input data "180" "60"..................................................passed
+Then assert  result "18.5"..................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="TestCucumber2" name="test result whether is correct 2" time="18.165">
+        <system-out>
+            <![CDATA[Given open browser2.........................................................passed
+When input data "180" "70"..................................................passed
+Then assert  result "21.6"..................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="TestCucumber2" name="test result whether is correct 3" time="19.724">
+        <system-out>
+            <![CDATA[Given open browser2.........................................................passed
+When input data "170" "65"..................................................passed
+Then assert  result "22.5"..................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="TestCucumber2" name="test result whether is correct 4" time="40.045">
+        <system-out>
+            <![CDATA[Given open browser2.........................................................passed
+When input data "160" "50"..................................................passed
+Then assert  result "19.5"..................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
